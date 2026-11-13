@@ -428,7 +428,7 @@ The visuals update dynamically based on the selected filters, allowing users to 
 
 # 11. Dashboard Preview
 
-![Blinkit Sales Performance Dashboard]([./Snapshot%20of%20Blinkit%20Sales%20Performance%20Dashboard.png](https://github.com/Akshatt26/Mobile-Sales-Data-Analysis-
+![Mobile Sales Data Analysis Dashboard](https://github.com/Akshatt26/Mobile-Sales-Data-Analysis-Dashboard/blob/main/Snapshot%20of%20Mobile%20Sales%20Data%20Analysis%20Dashboard.png)
 
 ---
 
