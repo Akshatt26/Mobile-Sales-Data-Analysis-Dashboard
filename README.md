@@ -77,9 +77,6 @@ The dataset supports analysis across:
 
 Total Sales is calculated using Units Sold multiplied by Price Per Unit.
 
-The data was prepared and analyzed using Power Query and DAX before being visualized in Power BI.
-
-
 ---
 
 # 6. Features
