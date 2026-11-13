@@ -79,7 +79,6 @@ Total Sales is calculated using Units Sold multiplied by Price Per Unit.
 
 The data was prepared and analyzed using Power Query and DAX before being visualized in Power BI.
 
-> **Note:** The dataset is used for educational and portfolio purposes to demonstrate data analytics and business intelligence skills.
 
 ---
 
