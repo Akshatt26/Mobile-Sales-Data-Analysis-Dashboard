@@ -428,7 +428,7 @@ The visuals update dynamically based on the selected filters, allowing users to 
 
 # 11. Dashboard Preview
 
-![Mobile Sales Data Analysis Dashboard](./Mobile Sales Data Analysis Dashboard.png)
+https://github.com/Akshatt26/Mobile-Sales-Data-Analysis-Dashboard/blob/main/Snapshot%20of%20Mobile%20Sales%20Data%20Analysis%20Dashboard.png
 
 ---
 
